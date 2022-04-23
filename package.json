@@ -1,7 +1,8 @@
 {
     "name": "logseq-plus-compact",
     "description": "Enhanced and compact default theme",
-    "author": "KierPrev",
+    "author": "Kiernan Preve",
+    "version": "0.1.0",
     "repo": "KierPrev/logseq-plus-compact",
     "logseq": {
       "themes": [
@@ -10,6 +11,8 @@
           "url": "./custom.css",
           "description": "Enhanced and compact default theme"
         }
-     ]
+     ],
+     "id": "logpluscomp",
+     "icon": ./icon.png"
     }
   }
