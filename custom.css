@@ -1,0 +1,28 @@
+body {
+  font-size:18px;
+}
+
+.white-theme,
+.light-theme,
+html[data-theme='light'] {
+	--ls-link-text-color: #008ee6;
+    --ls-link-ref-text-color: #008ee6;
+}
+
+.dark-theme,
+html[data-theme='dark'] {
+	--ls-link-text-color: #56baf9;
+    --ls-link-ref-text-color: #56baf9;
+    --ls-primary-text-color: #8f9fa0;
+}
+
+:root {
+	--ls-main-content-max-width-wide: 900px;
+    --ls-page-title-size: 30px;
+}
+
+
+
+a {
+  font-weight:500;
+}
